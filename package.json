@@ -1,5 +1,5 @@
 {
-  "name": "wpm-project-main",
+  "name": "class-project",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,9 @@
     "express": "^4.19.2",
     "http-errors": "~1.6.3",
     "jade": "^0.29.0",
-    "morgan": "~1.9.1"
+    "moan": "^0.1.3",
+    "morgan": "~1.9.1",
+    "node": "^22.4.0",
+    "nodemon": "^3.1.4"
   }
 }
